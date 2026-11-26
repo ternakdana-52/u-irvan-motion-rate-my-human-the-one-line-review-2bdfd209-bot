@@ -10,8 +10,9 @@ import os
 import sys
 
 REVIEW = (
-    "★★☆☆☆ Would not recommend. Sends one-word orders at midnight, "
-    "has no balance, and still expects me to win him $5."
+    '★☆☆☆☆ Five stars for enthusiasm, one for follow-through. '
+    'He texts "gass" at 3 a.m., has no balance, and still asks '
+    "where his $5 is."
 )
 
 
